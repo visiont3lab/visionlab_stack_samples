@@ -26,6 +26,10 @@ Unzip the data.zip downloaded file and place it inside visionlab_stack_samples f
 python people_remove.py
 ```
 
+## Results
+
+    * [Rome People Remove](https://drive.google.com/file/d/1VK6f9TrcCfL9aYcHK3UJ4Ii_blEsUPB3/view?usp=sharing)
+
 ## Credits to
 
 * [Yolov5 Pytorch](https://github.com/ultralytics/yolov5)
