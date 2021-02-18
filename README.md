@@ -28,7 +28,7 @@ python people_remove.py
 
 ## Results
 
-    * [Rome People Remove](https://drive.google.com/file/d/1VK6f9TrcCfL9aYcHK3UJ4Ii_blEsUPB3/view?usp=sharing)
+* [Rome People Remove](https://drive.google.com/file/d/1VK6f9TrcCfL9aYcHK3UJ4Ii_blEsUPB3/view?usp=sharing)
 
 ## Credits to
 
