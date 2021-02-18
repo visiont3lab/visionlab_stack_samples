@@ -12,19 +12,13 @@
 ```
 git clone https://github.com/visiont3lab/visionlab_stack_samples.git
 cd visionlab_stack_samples
-mkdir -p data/results/detection
-mkdir -p data/results/images
-mkdir -p data/results/masks
-mkdir -p data/results/inpainting
-mkdir -p data/results/bg_estimate
-
 virtualenv --python=python3.6 env
 source env/bin/activate
 pip install git+https://github.com/visiont3lab/visionlab_stack
 ```
 
-* Download models.zip from this [visionlab_stack models link](https://drive.google.com/file/d/1uPLrxxxd1__WVK_xMuDPXGIWojQwBMha/view?usp=sharing).
-Unzip the file and place it in **data/**
+* Download data.zip folder from this [visionlab_stack models link](https://drive.google.com/file/d/1K6mmtAV7uT5crBP5Xu4nFos3l9uxB0o1/view?usp=sharing).
+Unzip the data.zip downloaded file and place it inside visionlab_stack_samples folder
 
 * Run people remove
 
